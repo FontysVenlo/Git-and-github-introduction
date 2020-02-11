@@ -279,3 +279,23 @@ To see a list of every image we support, check out the Emoji Cheat Sheet.
 
 
 See [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) for more information about Markdown. 
+
+
+## Git tools
+There are a bunch of (GUI) Tools out there for interacting with Git. Ask Google to find out what your preference is. 
+
+In the first weeks the Github.com interface here is enough. 
+
+* Git CLI (Console in Linux, Windows, Mac)
+* Github Desktop
+* GitKraken
+* Atlassian SourceTree
+* Tortoisegit (Windows only)
+
+## Git and Github learning labs
+
+To get even more familiar with Git and Github, visit the [github learning labs](https://labs.github.com). 
+
+* Recommended courses to take: https://lab.github.com/githubtraining/paths/first-day-on-github   
+* Optional courses: https://lab.github.com/githubtraining/paths/first-week-on-github 
+
