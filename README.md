@@ -1,6 +1,6 @@
 # Git and github introduction
 
-This repository gives a short introduction for Fontys Venlo Software Engineering and Business Informatics students regarding usage of Git and Github. 
+This repository gives a short introduction for [Fontys University of Applied Sciences in Venlo](https://www.fontys.nl) Software Engineering and Business Informatics students regarding usage of Git and Github. 
 
 ## What is Git?
 
