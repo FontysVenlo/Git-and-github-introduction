@@ -1,3 +1,5 @@
+Last Update: 20.02.2020
+
 # Git and github introduction
 
 This repository gives a short introduction for [Fontys University of Applied Sciences in Venlo](https://www.fontys.nl) Software Engineering and Business Informatics students regarding usage of Git and Github. 
