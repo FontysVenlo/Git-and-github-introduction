@@ -10,7 +10,7 @@ jobs:
       - run: mkdir output
       - uses: docker://dalibo/pandocker:latest
         with: # needs a README in your repo root!
-          args: "-o README.pdf --toc --pdf-engine=xelatex --template=eisvogel --listing"
+          args: "-o README.pdf --toc --pdf-engine=xelatex --template ~/.pandoc/templates/eisvogel.latex --listing"
       - uses: actions/upload-artifact@master
         with:
           name: readme.pdf
