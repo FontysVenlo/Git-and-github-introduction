@@ -11,7 +11,7 @@ jobs:
       - uses: docker://dalibo/pandocker:latest
         with: # needs a README in your repo root!
           entrypoint: /pandoc
-          args: "-o README.pdf --toc --pdf-engine=xelatex --template=eisvogel --listing"
+          args: "README.md -o README.pdf --toc --pdf-engine=xelatex --template=eisvogel --listing"
       - uses: actions/upload-artifact@master
         with:
           name: readme.pdf
