@@ -183,11 +183,11 @@ Content in the first column | Content in the second column
 Image syntax allows for alternative text. The format is `![alt text](URL)`. The URL can be a relative project path or an external website URL.
 
 ```
-![Org Logo](../logo_square.png)
+![Org Logo](logo_square.png)
 ![Org Logo](https://raw.githubusercontent.com/wendikristine/documentation-template/master/logo_square.png)
 ```
 
-![Org Logo](../logo_square.png)
+![Org Logo](logo_square.png)
 
 ![Org Logo](https://raw.githubusercontent.com/wendikristine/documentation-template/master/logo_square.png)
 
